@@ -1,0 +1,70 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon files
+Icon
+
+# macOS-specific files in directories
+**/.Spotlight-V100
+**/.Trashes
+**/ehthumbs.db
+**/Thumbs.db
+
+# Local environment files
+*.swp
+*.swo
+*.swn
+
+# Python virtual environment (if using Python)
+venv/
+.env/
+*.pyc
+*.pyo
+__pycache__/
+
+# Node.js modules (if using Node.js)
+node_modules/
+
+# Java build files (if using Java)
+*.class
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Build artifacts
+build/
+dist/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS specific application files
+*.app/
+*.appiconset/
+
+# Miscellaneous
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserstate
+*.xcuserdata/
+*.xcscheme
+*.xctest
+
