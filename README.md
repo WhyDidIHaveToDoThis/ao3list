@@ -30,3 +30,5 @@ More goals:
 - Sharing
 - Reminder to kudos :heart:
 - Integrate with Calibre plugin :books:
+- Web interface
+  - A anilist/myanimelist but for ao3. But ban negative feedback.
