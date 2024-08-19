@@ -28,11 +28,5 @@ More goals:
   - Character
   - Pairing
 - Sharing
-- Reminder to kudos
-- Integrate with Calibre plugin
-
-How do I save all this data??? CSV?
-
-
-
-
+- Reminder to kudos :heart:
+- Integrate with Calibre plugin :books:
