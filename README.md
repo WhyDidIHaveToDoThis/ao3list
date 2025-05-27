@@ -1,4 +1,9 @@
-# Catalog fanfiction!
+# Random scripts that I use to manage AO3 epub downloads
+
+
+
+
+
 ---
 
 Calibre and ao3downloader provide ways to get metadata in csv format. However, once moved, metadata can be hard to wrangle.
@@ -9,7 +14,7 @@ library.py contains functions that will export all metadata of epubs in a direct
 table.py uses NiceGUI to display the table of metadata.
 countingtags.py uses ebooklib to count the unsorted tags.
 
-
+Edit: Not doing this anymore, repurposed the repo.
 ## Roadmap
 
 More goals:
