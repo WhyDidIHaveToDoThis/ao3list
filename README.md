@@ -28,7 +28,7 @@
 ### mergemodule.py
 - module to automatically merge fanfiction using epubmerge and Action Chains (yes I know fanficfare does this I just want to use ao3downloader)
 - doesn't work, couldn't figure out how to call epubmerge from Action Chain, fanficfare does it a different way I think?
-![Example of Action Chain configured to set fandom and rating.][]
+![Example of Action Chain configured to set fandom and rating.][actionchainexample]
 
 
 ---
